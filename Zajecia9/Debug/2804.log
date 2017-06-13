@@ -1,0 +1,13 @@
+﻿  targa.cpp
+e:\dokumenty\visual studio 2015\projects\gk\sprawozdania\grafika_1\zajecia_9\zajecia9\zajecia9\targa.cpp(40): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+e:\dokumenty\visual studio 2015\projects\gk\sprawozdania\grafika_1\zajecia_9\zajecia9\zajecia9\targa.cpp(120): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  Source.cpp
+e:\dokumenty\visual studio 2015\projects\gk\sprawozdania\grafika_1\zajecia_9\zajecia9\zajecia9\source.cpp(276): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\dokumenty\visual studio 2015\projects\gk\sprawozdania\grafika_1\zajecia_9\zajecia9\zajecia9\source.cpp(278): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\dokumenty\visual studio 2015\projects\gk\sprawozdania\grafika_1\zajecia_9\zajecia9\zajecia9\source.cpp(287): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+e:\dokumenty\visual studio 2015\projects\gk\sprawozdania\grafika_1\zajecia_9\zajecia9\zajecia9\source.cpp(291): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+  Generating Code...
+  2804.vcxproj -> E:\Dokumenty\Visual Studio 2015\Projects\GK\Sprawozdania\Grafika_1\zajecia_9\Zajecia9\Debug\Zajecia_9.exe
+  2804.vcxproj -> E:\Dokumenty\Visual Studio 2015\Projects\GK\Sprawozdania\Grafika_1\zajecia_9\Zajecia9\Debug\Zajecia_9.pdb (Partial PDB)
